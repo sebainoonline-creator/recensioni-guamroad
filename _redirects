@@ -1,5 +1,0 @@
-# Reindirizzamento permanente da vecchio a nuovo link
-/vecchio-link   /nuovo-link   301!
-
-# Tutte le sottopagine di /recensioni/ vanno alla home
-/recensioni/*   /   302
